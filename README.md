@@ -19,3 +19,5 @@ The mobile, main device used
 * adding POI (Point of Interest) to the user's hand (favorites)  
 * integration of **route calculation**  
 * **Fully customizable** widget design (global layout, POI layout, Google Map, etc.)
+
+![Image text](https://github.com/Nicolas-CARRERE/WCS_JS_hackaton1/blob/master/src/assets/hackaton1.png)
